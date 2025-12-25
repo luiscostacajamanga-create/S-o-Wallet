@@ -1,0 +1,7 @@
+{
+  "name": "Copy of São Wallet - Sua Carteira Digital STP",
+  "description": "A carteira digital de São Tomé e Príncipe. Recarregue seu saldo e compre diamantes FF, crédito e muito mais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,33 @@
+
+{
+  "short_name": "SãoWallet",
+  "name": "São Wallet - Carteira Digital STP",
+  "description": "Recarregue diamantes FF nos servidores Europa, África e Brasil pelo menor preço de São Tomé e Príncipe.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10149/10149458.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10149/10149458.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "categories": ["finance", "games", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Comprar Diamantes",
+      "url": "./index.html#services",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/10149/10149458.png", "sizes": "192x192" }]
+    }
+  ]
+}
